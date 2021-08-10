@@ -7,12 +7,10 @@ section {
   align-items: center;
   min-height: 100vh;
   overflow-Y: hidden;
-  /* font-family: "Montserrat", sans-serif; */
   color: #320B75;
 }
 
 section h2 {
- 
   color: #160731;
   font-weight: 900px;
   font-size: 50px;
@@ -92,7 +90,9 @@ input[type=range]::-webkit-slider-thumb:active {
     transform: translateX(2px);
   }
 }
-
+.button1{
+  background-color: rgb(36, 233, 36);
+}
 
 .part {
   position: absolute;
