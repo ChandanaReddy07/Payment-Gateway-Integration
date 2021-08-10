@@ -223,7 +223,7 @@ smoothScroll.init();
 		    }
 	  	}
 
-	  var c = "$";
+	  var c = "Rs ";
 	  c = c.concat(newVal);
 	  var targetValue = document.querySelector(".value");
 	  targetValue.innerHTML = c;
